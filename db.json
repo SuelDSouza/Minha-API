@@ -1,0 +1,44 @@
+{
+  "filmes": [
+    {
+          "id": 1,
+          "titulo": "O Show de Truman",
+          "resumo":"Acompanhe a vida de Truman",
+          "atores":"Dim Carry",
+          "capa":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fbr.web.img3.acsta.net%2Fmedias%2Fnmedia%2F18%2F93%2F64%2F37%2F20269376.jpg&tbnid=H3wC-uU-L0zW9M&vet=12ahUKEwjJ0c6FxcSBAxVisJUCHezlC8kQMygAegQIARB0..i&imgrefurl=https%3A%2F%2Fwww.adorocinema.com%2Ffilmes%2Ffilme-18671%2F&docid=6ubyIsUWeNekBM&w=759&h=1080&q=o%20show%20de%20truman&ved=2ahUKEwjJ0c6FxcSBAxVisJUCHezlC8kQMygAegQIARB0",
+          "duracao":250
+      },
+    {
+          "id": 2,
+          "titulo": "O Piece : Filme RED",
+          "resumo":"Se aventure mais uma vez com as aventuras dos chapeus de palha",
+          "atores":"Eichiro ODa",
+          "capa":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fjovemnerd.com.br%2Fwp-content%2Fuploads%2F2022%2F09%2Fone_piece_red_cartaz_brasileiro__2m0rwei0-760x1117.jpg&tbnid=CK1hc5jIe5-LiM&vet=12ahUKEwiQo6fZxcSBAxVutJUCHYq0DGoQMygAegQIARBN..i&imgrefurl=https%3A%2F%2Fjovemnerd.com.br%2Fnerdbunker%2Fone-piece-film-red-data-estreia-brasil%2F&docid=eJdyoauhmJQ4AM&w=760&h=1117&q=ONe%20piece%20filme%20REd&ved=2ahUKEwiQo6fZxcSBAxVutJUCHYq0DGoQMygAegQIARBN",
+          "duracao":200
+      },
+    {
+          "id": 3,
+          "titulo": "Jumanji",
+          "resumo":"Uma busca por tesouros perdidos",
+          "atores":"The Rock",
+          "capa":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fpt%2F0%2F0d%2FJumanji_The_Next_Level.jpg&tbnid=vP-npDLcZGdM4M&vet=12ahUKEwjMxs6-xsSBAxXXr5UCHZAUCbMQMygAegQIARBR..i&imgrefurl=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FJumanji%3A_The_Next_Level&docid=zIpXRKg5P6UNUM&w=310&h=459&q=jumanji%202&ved=2ahUKEwjMxs6-xsSBAxXXr5UCHZAUCbMQMygAegQIARBR",
+          "duracao":100
+      },
+    {
+          "id": 4,
+          "titulo": "Star Wars",
+          "resumo":"Uma guerra nas estrelas",
+          "atores":"Emily Smith",
+          "capa":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fptstarwars%2Fimages%2F3%2F30%2FLogoSW.png%2Frevision%2Flatest%2Fscale-to-width-down%2F1200%3Fcb%3D20120702150758&tbnid=WvsGun_dzDrupM&vet=12ahUKEwjardn3xsSBAxWepJUCHVD1DGkQMygAegQIARB1..i&imgrefurl=https%3A%2F%2Fstarwars.fandom.com%2Fpt%2Fwiki%2FStar_Wars&docid=ufqZRP06TcqRTM&w=1200&h=643&q=star%20wars&ved=2ahUKEwjardn3xsSBAxWepJUCHVD1DGkQMygAegQIARB1",
+          "duracao":210
+    }
+
+   ],
+   "atores": [
+      {
+          "id": 1,
+          "nome":"Emily Smith, Mike Johnson, Jane Doe, John Smith,",
+          "avatar": "https://img.ibxk.com.br/2022/03/09/09103027868119.jpg?ims=328x"
+      }
+  ]
+}
